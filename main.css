@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,300');
+
+body {
+	background-color: white;
+}
+.center {
+	text-align: center;
+}
+
+.decoration {
+	font-size: 45px;
+	font-family: quicksand;
+	color: white;
+}
+
+.subtitle {
+	font-size: 25px;
+	font-family: quicksand;
+	color: white;
+}
+
+.info {
+	font-size: 25px;
+	font-family: quicksand;
+	color: white;
+}
+
+.spacer {
+	height: 300px;
+}
+
+/*****  Hero *****/
+.img-container {
+	background-image: url("island-6.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 800px;
+}
